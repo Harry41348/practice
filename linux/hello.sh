@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo Hello
+echo Hello $USER, you are currently in the directory $PWD
