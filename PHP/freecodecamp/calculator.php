@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculator</title>
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-    
-    <ul>
-        <li><a class="active" href="index.php">Home</a></li>
-    </ul>
+<?php $title = 'PHP Practice'; include ("templates/top.php"); ?>
 
     <form action="calculator.php" method="get">
         <input type="number" name="num1">
