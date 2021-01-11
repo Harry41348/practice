@@ -1,4 +1,4 @@
-<?php $title = 'PHP Practice'; include ("templates/top.php"); ?>
+<?php $title = 'Calculator'; include ("templates/top.php"); ?>
 
     <form action="calculator.php" method="get">
         <input type="number" name="num1">

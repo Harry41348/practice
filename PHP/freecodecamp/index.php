@@ -52,12 +52,12 @@
 
     <form action="index.php" method="get">
         Name: <input type="text" name="name">
-        <input type="submit">
+        <input type="submit" value="Submit">
     </form>
 
     <?php
 
-            echo $_GET["name"];
+        echo $_GET["name"];
 
         echo "</div>";
         echo "</div>";
