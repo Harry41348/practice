@@ -1,4 +1,4 @@
-<?php $title = 'Template'; include ("templates/top.php"); ?>
+<?php $title = 'Checkbox'; include ("templates/top.php"); ?>
 
 <form action="checkbox.php" method="post">
     Apples: <input type="checkbox" name="fruits[]" value="apples"><br>
