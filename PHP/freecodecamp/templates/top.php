@@ -23,4 +23,5 @@
         <li><a href="array.php">Arrays</a></li>
         <li><a href="checkbox.php">Checkbox</a></li>
         <li><a href="associative_arrays.php">Associative Arrays</a></li>
+        <li><a href="function.php">Function</a></li>
     </ul>
