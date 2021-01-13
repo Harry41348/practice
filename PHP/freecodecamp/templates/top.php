@@ -10,10 +10,7 @@
 <body>
     <?php
 
-        $name = "Harry";
-        $animal = "monkey";
-
-        echo "<h1>$name's Webpage</h1>";
+        echo "<h1>Harry's Webpage</h1>";
     ?>
     <ul>
         <li><a href="index.php">Home</a></li>
@@ -23,4 +20,5 @@
         <li><a href="checkbox.php">Checkbox</a></li>
         <li><a href="associative_arrays.php">Associative Arrays</a></li>
         <li><a href="function.php">Function</a></li>
+        <li><a href="class.php">Classes</a></li>
     </ul>
