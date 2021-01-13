@@ -14,7 +14,6 @@
         $animal = "monkey";
 
         echo "<h1>$name's Webpage</h1>";
-        echo "<hr>";
     ?>
     <ul>
         <li><a href="index.php">Home</a></li>
